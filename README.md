@@ -102,4 +102,4 @@ Full-stack staff scheduling platform built for **CSE323 — Software Engineering
 
 ---
 
-<sub>Osama M. Taha · Computer Science and Engineering · E-JUST</sub>
+<sub>OSAMA M. TAHA · Computer Science and Engineering · E-JUST</sub>
